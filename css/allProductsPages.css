@@ -1,0 +1,355 @@
+/********************* product_details ****************/
+.product_details_1 ul{ 
+    background:#f9fef0;
+    padding:15px 10px 15px 10px;
+     }
+    .product_details_1 li{ 
+    display:inline;
+    margin:4px;
+    color: #9c9b9b;;
+     }
+    .product_details_1 li a{ 
+    color:#6AAF07;
+    font-size:15px;
+     }
+    .product_details_1 li a:hover{ 
+    color:#000;
+     }
+    #product_details .input-group .form-control:first-child {
+    width: 92%!important;
+    height: 30px;
+    }
+    /* Main carousel style */
+    .article-slide .carousel {
+    width: 600px;
+    }
+    
+    /* Indicators list style */
+    .article-slide .carousel-indicators {
+    bottom: 20%;
+    left: 0;
+    margin-left:-110px;
+    width:10%;
+    }
+    /* Indicators list style */
+    .article-slide .carousel-indicators li {
+        border: medium none;
+        border-radius: 0;
+        float: left;
+        height: 54px;
+        margin-bottom: 5px;
+        margin-left: 0;
+        margin-right: 5px !important;
+        margin-top: 0;
+        width: 100px;
+    }
+    /* Indicators images style */
+    .article-slide .carousel-indicators img {
+        border: 2px solid #FFFFFF;
+        float: left;
+        height: 54px;
+        left: 0;
+        width: 100px;
+    }
+    /* Indicators active image style */
+    .article-slide .carousel-indicators .active img {
+        border: 2px solid #428BCA;
+        opacity: 0.7;
+    }
+        /*
+    Credits:
+    https://github.com/marcaube/bootstrap-magnify
+    */
+    .mag {
+        width:200px;
+        margin: 0 auto;
+        float: none;
+    }
+    .mag img {
+    max-width:100%;
+    }
+    .magnify {
+        position: relative;
+        cursor: none
+    }
+    .magnify-large {
+    position: absolute;
+    display: none;
+    width: 175px;
+    height: 175px;
+    -webkit-box-shadow: 0 0 0 7px rgba(255, 255, 255, 0.85), 0 0 7px 7px rgba(0, 0, 0, 0.25), inset 0 0 40px 2px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0 0 0 7px rgba(255, 255, 255, 0.85), 0 0 7px 7px rgba(0, 0, 0, 0.25), inset 0 0 40px 2px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 0 0 7px rgba(255, 255, 255, 0.85), 0 0 7px 7px rgba(0, 0, 0, 0.25), inset 0 0 40px 2px rgba(0, 0, 0, 0.25);
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+     border-radius: 100%
+    }
+    .product_details_1{ 
+    padding-top:30px;
+    padding-left: 30px;
+     }
+    .product_details_2{ 
+    padding-top:30px;
+    border-bottom:1px solid #EEEEEE;
+    padding-bottom:10px;
+     }
+    .product_details_2 h4{ 
+    font-size:30px;
+    padding-bottom:20px;
+     }
+    .product_details_2 li{ 
+    font-size:13px;
+    color: #a5a4a4;
+    line-height:29px;
+     }
+    .product_details_2 li a{ 
+    font-size:13px;
+    color: #000;
+     }
+    .product_details_2 li a:hover{ 
+    color:#93C54C;
+     }
+    .well_10{
+    font-size:20px;
+    color:#FF5858;
+     }
+    .product_details_3{ 
+    padding-top:20px;
+    border-bottom:1px solid #EEEEEE;
+    padding-bottom:20px;
+     }
+    .product_details_3 h3{ 
+    font-size:18px;
+     }
+    .product_details_4{ 
+    padding-top:25px;
+     }
+    .product_details_4 h3{ 
+    font-size:22px;
+     }
+    .product_details_4 p{ 
+    font-size:12px;
+    padding-top:20px;
+    padding-bottom:15px;
+     }
+    .well_11{ 
+    color:#FF5858;
+    padding-left:5px;
+     }
+    .well_15{ 
+    color:#000;
+    font-size:12px;
+    padding-left:5px;
+    line-height:30px;
+     } 
+    .product_details_5 p{ 
+    font-size:12px;
+    padding-top:10px;
+    padding-bottom:15px;
+     }
+    #product_details .input-group {
+    width: 20%;
+    }
+    #product_details .input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+    }
+    #product_details .spinner input {
+    text-align: left; 
+    }
+    #product_details .input-group-btn-vertical {
+    position: relative;
+    white-space: nowrap;
+    width: 12%;
+    vertical-align: middle;
+    display: table-cell;
+    }
+    #product_details .input-group-btn-vertical > .btn:first-child {
+    border-top-right-radius: 4px;
+    }
+    #product_details .input-group-btn-vertical > .btn:last-child {
+    margin-top: -0px;
+    border-bottom-right-radius: 4px;
+    }
+    #product_details .input-group-btn-vertical > .btn {
+    display: -webkit-inline-box;
+    float: none;
+    width: 60%;
+    max-width: 100%;
+    padding: 4px;
+    margin-left: -1px;
+    position: relative;
+    border-radius: 0;
+    }
+    .input-group .form-control:first-child, .input-group-addon:first-child, .input-group-btn:first-child>.btn, .input-group-btn:first-child>.btn-group>.btn, .input-group-btn:first-child>.dropdown-toggle, .input-group-btn:last-child>.btn:not(:last-child):not(.dropdown-toggle), .input-group-btn:last-child>.btn-group:not(:last-child)>.btn {
+    width: 50%;
+    }
+    .product_details_7{ 
+    padding-top:20px;
+     }
+    .product_details_7 p{ 
+     background-color: #6aaf07;
+     color: #fff;
+     border:1px solid #6aaf07;
+     padding:10px 10px 10px 10px;
+     }
+    .product_details_7 p:hover{ 
+     background-color: #528705;
+     cursor:pointer;
+     }
+    .product_details_7 p a{ 
+     color: #fff;
+     }
+    .product_details_8{ 
+    padding-top:10px;
+    border-bottom:1px solid #EEEEEE;
+    padding-bottom:20px;
+     }
+    .product_details_8 li{ 
+    display:inline;
+    margin:5px;
+     }
+    .product_details_8 li a{ 
+    font-size:13px;
+    color:#93C54C;
+     }
+    .product_details_8 li a:hover{ 
+    color:#000;
+     }
+    .product_details_8 li i:hover{ 
+    color:#000;
+     }
+    .product_details_8 li i{ 
+    font-size:13px;
+    color:#93C54C;
+    padding-right:5px;
+     }
+    .product_details_9 ul{ 
+    padding-top:20px;
+     }
+    .product_details_9 li{ 
+    display:inline;
+    margin:2px;
+     }
+    .well_16 a{ 
+    background-color: rgb(29, 161, 242);
+    padding:5px 10px 5px 10px;
+    color:#fff;
+     }
+    .well_16 a:hover{ 
+    background-color:#77C6F7;
+    color:#fff;
+     }
+    .well_17 a{ 
+    background-color: rgb(59, 89, 152);
+    padding:5px 10px 5px 10px;
+    color:#fff;
+     }
+    .well_17 a:hover{ 
+    background-color:#899BC1;
+    color:#fff;
+     }
+    .well_18 a{ 
+    background-color: rgb(220, 78, 65);
+    padding:5px 10px 5px 10px;
+    color:#fff;
+     }
+    .well_18 a:hover{ 
+    background-color:#EA948D;
+    color:#fff;
+     }
+    .well_19 a{ 
+    background-color: rgb(255, 101, 80);
+    padding:6px 10px 6px 10px;
+    color:#fff;
+     }
+    .well_19 a:hover{ 
+    background-color:#FFA396;
+    color:#fff;
+     }
+        .blogShort{ border-bottom:1px solid #ddd;}
+    .add{background: #333; padding: 10%; height: 300px;}
+    
+    .nav-sidebar { 
+        width: 100%;
+        padding: 30px 0; 
+        border-right: 1px solid #ddd;
+    }
+    .nav-sidebar a {
+        color: #333;
+        -webkit-transition: all 0.08s linear;
+        -moz-transition: all 0.08s linear;
+        -o-transition: all 0.08s linear;
+        transition: all 0.08s linear;
+    }
+    .nav-sidebar .active a { 
+        cursor: default;
+        background-color: #0b56a8; 
+        color: #fff; 
+    }
+    #product_details .nav-sidebar .active a:hover {
+    background-color: #E50000;
+    color:#fff;   
+    }
+    #product_details .nav>li>a:focus {
+        color: #000;
+    }
+    .nav-sidebar .text-overflow a,
+    .nav-sidebar .text-overflow .media-body {
+        white-space: nowrap;
+        overflow: hidden;
+        -o-text-overflow: ellipsis;
+        text-overflow: ellipsis; 
+    }
+    
+    .btn-blog {
+        color: #ffffff;
+        background-color: #E50000;
+        border-color: #E50000;
+        border-radius:0;
+        margin-bottom:10px
+    }
+    .btn-blog:hover,
+    .btn-blog:focus,
+    .btn-blog:active,
+    .btn-blog.active,
+    .open .dropdown-toggle.btn-blog {
+    color: white;
+    background-color:#0b56a8;
+    border-color: #0b56a8;
+    }
+    .article h2{color:#333333;}
+    .margin10{margin-bottom:10px; margin-right:10px;}
+    
+    .container .text-style
+    {
+    text-align: justify;
+    line-height: 23px;
+    margin: 0 13px 0 0;
+    font-size: 15px;
+    }
+    .product_details_10{ 
+    padding-top:70px;
+    }
+    .product_details_11 p{ 
+    padding-top:30px;
+    line-height:30px;
+     } 
+    .well_22 a{ 
+    background:#FF9F00;
+    padding:20px 70px 20px 70px;
+    color:#fff;
+    font-size:15px;
+      }	
+    .well_23 a{ 
+    background:#FB641B;
+    padding:20px 70px 20px 70px;
+    color:#fff;
+    font-size:15px;
+      }  
+    
+    #product_details{
+    padding-bottom:40px; 
+     }
+    /********************* product_details_end ****************/
